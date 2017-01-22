@@ -117,10 +117,13 @@ textarea {
 		text-decoration:underline;
 }
 
-	.logo {
-		width:100%;
+	/*.logo {
 		height:auto;
 		margin:0 auto;
+}*/
+	img {
+		width:100%;
+		height:auto;
 }
 
 	.menu ul {
@@ -460,6 +463,12 @@ textarea {
 	a:active {
 		color:#F9F5D9;
 		text-decoration:none;
+}
+
+	.logo {
+		height:auto;
+		margin:0 auto;
+		width:70%;
 }
 
 	.menu li {
